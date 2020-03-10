@@ -26,7 +26,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ## License
 
-[GNU General Public License v3.0](PowerShell/LICENSE)
+[GNU General Public License v3.0](LICENSE)
 
 
 
