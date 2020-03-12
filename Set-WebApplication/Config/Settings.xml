@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<settings>
+	<WebAppSettings>
+		<Name>XXXXXXXXXXXXXXXXXXXXXXXXX</Name>
+		<URL>hXXXXXXXXXXXXXXXXXXXXXXXXX/</URL>
+		<AppPool>XXXXXXXXXXXXXXXXXXXXXXXXX</AppPool>
+		<AppPoolAcc>XXXXXXXXXXXXXXXXXXXXXXXXX</AppPoolAcc>
+		<DataBaseServer>XXXXXXXXXXXXXXXXXXXXXXXXX</DataBaseServer>
+		<DataBaseName>XXXXXXXXXXXXXXXXXXXXXXXXX</DataBaseName>
+		<HostHeader>XXXXXXXXXXXXXXXXXXXXXXXXX</HostHeader>
+		<portalsuperuseraccount>XXXXXXXXXXXXXXXXXXXXXXXXX</portalsuperuseraccount>
+		<portalsuperreaderaccount>XXXXXXXXXXXXXXXXXXXXXXXXX</portalsuperreaderaccount>
+	</WebAppSettings>
+</settings>
