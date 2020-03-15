@@ -12,21 +12,6 @@ Functions and utilities for PowerShell and differents Microsoft products (Sharep
 | [Set-WebApp](Set-WebApplication/Set-WebApp.ps1) | Create WebApplication in SharePoint 2019. | [:book:](Set-WebApplication/README.md) |
 
 
-
-
-
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-
-
-
-
-
-
 ## Microsoft Open Source Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
